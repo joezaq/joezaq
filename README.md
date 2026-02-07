@@ -1,7 +1,7 @@
 # **Hey, I'm Ayoola! 👋**
 I'm a Data Scientist, who enjoys wringling through data to attain actionable insight! I'm passionate about building data models, transforming data, data visualization and data analytics. 
 
-I've spent the last few years fine-tuning my skills in **Python**, **Matlab**, **MySQL**, and **powerBi**. 🚀
+I've spent the last few years fine-tuning my skills in **Python**, **Matlab**, **SQL**, and **powerBi**. 🚀
 
 <img src="https://github.com/joezaq/joezaq/blob/main/photo_2025-03-25_15-44-39.jpg?raw=true.type" width="200" height="200">  
 
